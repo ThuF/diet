@@ -1,6 +1,17 @@
 site_name: Diet
 site_url: https://thuf.github.io/diet
 
+nav:
+    - Начало: 'index.md'
+    - Нов тласък на теглото: 'нов-тласък-на-теглото.md'
+    - Понеделник: 'понеделник.md'
+    - Вторник: 'протеинов-ден.md'
+    - Сряда: 'index.md'
+    - Четвъртък: 'протеинов-ден.md'
+    - Петък: 'index.md'
+    - Събота: 'index.md'
+    - Неделя: 'протеинов-ден.md'
+
 theme:
   # favicon: /img/favicon.png
   # logo: /img/logo/dirigible-logo.png
